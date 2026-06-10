@@ -81,7 +81,7 @@ aplikasi-blog/
 
 ## Screenshot
 
-Tambahkan screenshot aplikasi di sini.
+https://youtu.be/KIGYn_Hxfgg
 
 ## Author
 
